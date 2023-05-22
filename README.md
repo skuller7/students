@@ -1,4 +1,4 @@
-# # Student Database Population Script
+# # Student Database  Script
 
 This script is designed to automatically fill in a PostgreSQL database  with data from two files: courses.csv and students.csv. 
 
